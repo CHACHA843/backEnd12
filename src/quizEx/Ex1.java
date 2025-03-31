@@ -7,7 +7,7 @@ public class Ex1 {
 
 
         System.out.println(1 + x << 33);
-
+        System.out.println("브랜치 만들거야");
     }
 
 
